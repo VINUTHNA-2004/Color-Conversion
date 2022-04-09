@@ -97,16 +97,16 @@ cv2.destroyAllWindow
 ```
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
-![output](?raw=true)
+![output](https://github.com/VINUTHNA-2004/Color-Conversion/blob/main/p1.jpeg?raw=true)
 ### ii) HSV to RGB and BGR
-![output](?raw=true)
+![output](https://github.com/VINUTHNA-2004/Color-Conversion/blob/main/p2.jpeg?raw=true)
 
 ### iii) RGB and BGR to YCrCb
-![output](?raw=true)
+![output](https://github.com/VINUTHNA-2004/Color-Conversion/blob/main/p3.jpeg?raw=true)
 ### iv) Split and merge RGB Image
-![output](?raw=true)
+![output](https://github.com/VINUTHNA-2004/Color-Conversion/blob/main/p4.jpeg?raw=true)
 ### v) Split and merge HSV Image
-![output](?raw=true)
+![output](https://github.com/VINUTHNA-2004/Color-Conversion/blob/main/p5.jpeg?raw=true)
 
 
 ## Result:
